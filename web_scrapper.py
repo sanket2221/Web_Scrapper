@@ -4,6 +4,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 import pandas as pd
 
+#new changes
 url = "http://electionevents.in/"
 
 map = r'Map/'
